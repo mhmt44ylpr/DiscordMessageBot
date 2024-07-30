@@ -1,3 +1,2 @@
-# GithubQueryPanel
-# GithubQueryPanel
+
 # DiscordMessageBot
